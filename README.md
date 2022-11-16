@@ -1,3 +1,3 @@
-#[Jessica]'s Notes
-# This is an H1 header (lergest)
-###### This is an H6 header (smallest)
+# Jessica's Notes
+## Summary 
+This repository contains all of the notes taken by [Jessica](https://github.com/J8051) for the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp.   
